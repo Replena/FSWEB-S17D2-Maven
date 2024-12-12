@@ -5,6 +5,7 @@ public class Developer {
     private String name;
     private double salary;
     private Experience experience;
+    private int id2;
 
     public Developer(int id, String name, double salary, Experience experience) {
         this.id = id;
